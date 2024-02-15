@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I've been programming for about a year and I'm striving to make a career change as i continue to expand my knowledge in current and future technologies. In addition, i also enjoy videogames, cooking, bike rides and researching how to ask good stack overflow questions.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [rllopez0410@gmail.com](mailto:rllopez0410@gmail.com)
 * 🚀  I'm currently working on [StyleForge](http://github.com/Rllopez0410/StyleForge)
 * 🧠  I'm learning Javascript, React, Node.JS
