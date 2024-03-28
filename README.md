@@ -6,7 +6,7 @@ I've been programming for about a year and I'm striving to make a career change 
 * 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [rllopez0410@gmail.com](mailto:rllopez0410@gmail.com)
 * 🚀  I'm currently working on [I'm currently working on StyleForge](http://github.com/Rllopez0410/StyleForge)
-* 🧠  I'm learning I'm learning Javascript, React, Node.JS, Python, Data Structures & Algorithms
+* 🧠  I'm learning I'm learning Javascript, React, Node.JS, Python, DSA
 
 ### Skills
 
