@@ -5,7 +5,7 @@ I've been programming for about a year and I'm striving to make a career change 
 
 * 🌍  I'm based in Washington D.C
 * ✉️  You can contact me at [rllopez0410@gmail.com](mailto:rllopez0410@gmail.com)
-* 🧠  I'm learning Svelte and DSA
+* 🧠  I'm learning Game Maker Studio 2
 
 ### Skills
 
